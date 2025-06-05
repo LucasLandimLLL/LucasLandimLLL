@@ -4,7 +4,7 @@
 
 </div>
 
-## 💻 trabalho com suporte de sites de E-commerce (sites mercados) e busco ser melhorar que eu sou.
+## 💻 trabalho com suporte e busco ser melhorar que eu sou.
 
 <div align="center">
   
