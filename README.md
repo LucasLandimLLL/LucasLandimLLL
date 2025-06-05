@@ -2,9 +2,13 @@
   
 # Olá, Sou o Lucas Landim!
 
-</div>
+</div >
 
+<div align="center">
+  
 ## 💻 trabalho com suporte e busco ser melhorar que eu sou.
+
+</div >
 
 <div align="center">
   
